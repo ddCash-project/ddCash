@@ -1,14 +1,27 @@
-ddCash - Port: 12007 RPC Port: 12008
 
-Total Supply: 10,000,000,000 ddCash
-Type: POW + POS
+<b>ddCash Coin Specification</b>
 
-Linux Compiling Instruction
-  ./autogen.sh
-  
-  
-  ./configure --disable-tests --disable-bench
-  
-  
-  make
+Coin Name : ddCash
+
+Ticker : ddCash
+
+Coin Type : POW  + POS 
+
+Algorithm : Scrypt
+
+Block Time : 90 Sec Approx
+
+Block Size : 3MB 
+ 
+Total Coins: 10,000,000,000
+
+Minimum Stake Age : 12 Hours
+
+Coin Maturity : 15
+
+<b>Wiki (Guides and Information)</b>
+
+If you require assistance, please do not to forget to check our Wiki Page containing information and tutorials on how to setup daemon, masternodes and information about proof of stake, proof of work and masternode rewards and how to build the client on Linux and Windows.
+
+
 
